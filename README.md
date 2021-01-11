@@ -3,8 +3,10 @@ Using NEAT Python to learn to play Flappy Bird. This code uses search and optimi
 
 ## Installation
 Use this instructions:
+```sh
 $pip install pygame
 $pip install neat-python
+```
 
 Dependencies
 - pygame
