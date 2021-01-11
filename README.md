@@ -1,3 +1,5 @@
+![Image alt](https://github.com/IbatullinaMaria/flappy/blob/main/imgs/bird1.png)
+
 # NEAT-Flappy-Bird
 Using NEAT Python to learn to play Flappy Bird. NEAT is an algorithm that takes a group of genomes that are trying to accomplish a given task. This code uses search and optimise technique called genetic algorithm which creates a particular number of random configurations, the best configuration of them is used to create the next generation of neural networks, as we repeat the process, with time, we observe that the performance gets better.
 
